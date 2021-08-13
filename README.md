@@ -2,7 +2,7 @@
 
 1. Make the desired changes in the markdown files. Instructions for how to do this can be found at [Hugo](https://gohugo.io/getting-started/directory-structure/)
 1. Run the command `hugo` in this repository. It will generate the content of the `public` folder with a website html ready to go.
-1. Copy the content of the `public` folder into the repository `filipmazurek.github.com`. The repository is configured with an environment to launch a github-hosted website.
+1. Copy the content of the `public` folder into the repository `filipmazurek.github.com`. The repository is configured with an environment to launch a github-hosted website. (Locally, it is easy to set up so that the repository is actually called the `public` folder. This way, running the `hugo` command will build into the `public` folder directly.)
 
 # Instructions from template
 
